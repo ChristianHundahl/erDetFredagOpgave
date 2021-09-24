@@ -9,7 +9,6 @@ import java.net.MalformedURLException;
 
 @RestController
 public class HelloController {
-    String url = firstMapping().toString();
 
     @GetMapping("/first-mapping")
     public String firstMapping(){
@@ -35,7 +34,7 @@ public class HelloController {
 
     //Få data fra bruger til server:
     @GetMapping("/parameter") //localhost8080 + /parameter?param=input
-    public String paramter(@RequestParam String param){ //indikerer næste paramter = request parameter
-        return "<b>" + param + "<\b>" + "\n :-)";//Mmethod 'paramter' gets input form user in form of request sent
+    public String paramter(@RequestParam String param){ //indicates next paramter = request parameter
+        return "<b>" + param + "<\b>" + "\n :-)";//method 'paramter' gets input from user in form of request sent
     }
 }
