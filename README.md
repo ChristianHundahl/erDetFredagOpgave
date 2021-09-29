@@ -10,7 +10,7 @@ Deltagere
 --
 Christian Hundahl [@ChristianHundahl](https://github.com/ChristianHundahl/ "Min GitHub")
 
-~~Bill Gates~~ har ikke svaret på mine mails. Så får han ikke del i æren.
+~~Bill Gates~~ har ikke svaret på mit tilbud om 50% anpart i projektet mod investering på 200.000.000 $. Så får han ikke del i æren.
 
 Kontakt
 ==
